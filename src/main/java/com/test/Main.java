@@ -6,6 +6,7 @@ public class Main {
         System.out.println("have a good day");
         System.out.println("good day");
         System.out.println("good day_hpe_test1");
+        System.out.println("test");
 
 
     }
