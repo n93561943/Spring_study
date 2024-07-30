@@ -6,7 +6,7 @@
 
     <bean id="student" class="com.test.Student"></bean>
     <bean id="employee" class="com.test.Employee">
-        <property name = "address" ref = "address"></property>
+        <property name = "address" ref = "address"/>
     </bean>
     <bean id="address" class="com.test.Address"></bean>
     
